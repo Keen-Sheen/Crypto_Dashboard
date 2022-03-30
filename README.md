@@ -25,7 +25,7 @@ Portfolio dashboard includes:
 - One-year total portfolio value in USD
 - Monte Carlo simulation outcomes (100 simulations over 365 days)
 - Monte Carlo simulation histogram
-- Mnte Carlo simulation custom outcomes (10 simulations at once)
+- Monte Carlo simulation custom outcomes (10 simulations at once)
 - Pulled articles for 6 coins using news_api
 - Used sentiment analysis on articles to generate scores  
 - Implemented algorithmic trading models for entry and exit points
