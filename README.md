@@ -1,6 +1,6 @@
 # Crypto_Dashboard
 
-![An Image of crypto trading](ss-crypto-future.png)
+![An Image of crypto trading](ss-crypto-future.jpg)
 
 ## A Wild Ride into Cryptocurrencies
 
