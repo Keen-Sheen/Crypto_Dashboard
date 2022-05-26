@@ -1,5 +1,7 @@
 # Crypto_Dashboard
 
+![An Image of crypto trading](Crypto_Trading.png)
+
 ## A Wild Ride into Cryptocurrencies
 
 Cryptocurrencies have made impulsive moves in the last three years.
